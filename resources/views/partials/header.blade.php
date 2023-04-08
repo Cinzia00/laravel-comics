@@ -1,4 +1,4 @@
-        <div class="container">
+        <div class="container d-flex">
             <div class="logo">
                 <img src="{{ Vite::asset ('resources/img/dc-logo.png') }}" alt="">
             </div>
